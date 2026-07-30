@@ -6,3 +6,4 @@ console.log('feature');
 // Feature 2
 //Added a new line
 //new line
+// Signup feature added
